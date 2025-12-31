@@ -24,7 +24,7 @@ XML functions
 </CATALOG>
 ```
 
-```
+```Javascript
 function main() {
 
     var f = std.fopen("test.xml", "r");
